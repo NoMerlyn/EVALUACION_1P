@@ -166,13 +166,14 @@ Esto confirma que `.gitignore` funciona correctamente, excluyendo solo los archi
 
 - Un resumen del procedimiento realizado.
 1. Se habilitaron las Issues en el repositorio
-2. Nos cambiamos a la rama develop para responder las preguntas planteadas
+2. Nos cambiamos a la rama develop para responder las preguntas planteadas (Solamente teoria)
+3. Pusheamos la rama develop a github
+4. Al issue que creamos con anterioridad le asignamos esa rama
+5. Creamos un pull request en nuestro repositorio en en cual indicamos que se cerraria la issue #1
+6. Combinamos y aceptamos
 - El número y enlace del issue creado: `https://github.com/NoMerlyn/EVALUACION_1P/issues/1#issue-3493075147` siendo la issue #1
-- El número y enlace al pull request.
-
-**📝 Respuesta:**
-
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+- El número y enlace al pull request: `https://github.com/NoMerlyn/EVALUACION_1P/pull/2#issue-3493103638` siendo el pull request #2git fetch origin pull/ID/head:
+![pullrequest](img/pullrequest.png)
 
 ---
 
